@@ -8,7 +8,7 @@
         {
             "id": 2,
             "title": "Up to no good!",
-            "content": "<script>alert('I could have done so much more!');</script>"
+            "content": "<script>alert('I could have done so much more harm because XSS can work!');</script>"
         },
         {
             "id": 3,
