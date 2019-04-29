@@ -10,5 +10,5 @@
     { "id": 3, "company": "William's Widgets", "area": "Scotland", "storeType": "[Physical]"},
     { "id": 4, "company": "Ulster Widget Suppliers", "area": "Northern Ireland", "storeType": "[Online, Physical]"},
     { "id": 5, "company": "WeSellWidgets.com", "area": "Nationwide", "storeType": "[Online]"} 
-  ],
+  ]
 }
