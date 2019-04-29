@@ -4,9 +4,12 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "widgetSellers": [
+    { "id": 1, "company": "Delta Widgets", "area": "West", "storeType": "[Online]" },
+    { "id": 2, "company": "Lancashire Widget Company", "area": "North West", "storeType": "[Online, Physical]" },
+    { "id": 3, "company": "William's Widgets", "area": "Scotland", "storeType": "[Physical]"},
+    { "id": 4, "company": "Ulster Widget Suppliers", "area": "Northern Ireland", "storeType": "[Online, Physical]"},
+    { "id": 5, "company": "WeSellWidgets.com", "area": "Nationwide", "storeType": "[Online]"} 
   ],
   "profile": {
     "name": "typicode"
