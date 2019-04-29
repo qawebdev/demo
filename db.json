@@ -1,5 +1,11 @@
 {
-  "widgetSellers": [
-    { "id": 1, "company": "Delta Widgets"}
-  ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
