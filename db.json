@@ -1,8 +1,8 @@
 {
   "widgetPosts": [
     { "id": 1, "title": "Widgets are great", "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste perspiciatis laudantium hic similique velit vitae nesciunt quidem iusto possimus? Illo?" },
-    { "id": 2, "title": "Up to no good!" }, "content": "<script>alert('I could have done so much more!');</script>"},
-    { "id": 3, "title": "AliceCo rules!" }, "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste perspiciatis laudantium hic similique velit vitae nesciunt quidem iusto possimus? Illo?"}
+    { "id": 2, "title": "Up to no good!", "content": "<script>alert('I could have done so much more!');</script>"},
+    { "id": 3, "title": "AliceCo rules!", "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iste perspiciatis laudantium hic similique velit vitae nesciunt quidem iusto possimus? Illo?"}
   ],
   "widgetSellers": [
     { "id": 1, "company": "Delta Widgets", "area": "West", "storeType": "[Online]" },
@@ -11,7 +11,4 @@
     { "id": 4, "company": "Ulster Widget Suppliers", "area": "Northern Ireland", "storeType": "[Online, Physical]"},
     { "id": 5, "company": "WeSellWidgets.com", "area": "Nationwide", "storeType": "[Online]"} 
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
