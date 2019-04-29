@@ -1,5 +1,5 @@
 {
   "widgetSellers": [
-    { "id": 1, "company": "Delta Widgets", "area": "West", "storeType": "[Online]" }
+    { "id": 1, "company": "Delta Widgets", "area": "West", "storeType": "Online" }
   ]
 }
