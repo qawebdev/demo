@@ -1,11 +1,5 @@
 {
   "widgetSellers": [
-    { "id": 1, "company": "Delta Widgets", "area": "West", "storeType": "[Online]" },
-    {
-            "id": 2,
-            "company": "Lancashire Widget Company",
-            "area": "North West",
-            "storeType": "[Online, Physical]"
-        }
+    { "id": 1, "company": "Delta Widgets"}
   ]
 }
