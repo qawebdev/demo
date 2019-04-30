@@ -21,31 +21,31 @@
             "id": 1,
             "company": "Delta Widgets",
             "area": "West",
-            "storeType": "[Online]"
+            "storeType": "Online"
         },
         {
             "id": 2,
             "company": "Lancashire Widget Company",
             "area": "North West",
-            "storeType": "[Online, Physical]"
+            "storeType": "Online, Physical"
         },
         {
             "id": 3,
             "company": "William's Widgets",
             "area": "Scotland",
-            "storeType": "[Physical]"
+            "storeType": "Physical"
         },
         {
             "id": 4,
             "company": "Ulster Widget Suppliers",
             "area": "Northern Ireland",
-            "storeType": "[Online, Physical]"
+            "storeType": "Online, Physical"
         },
         {
             "id": 5,
             "company": "WeSellWidgets.com",
             "area": "Nationwide",
-            "storeType": "[Online]"
+            "storeType": "Online"
         }
     ],
   "profile": {
